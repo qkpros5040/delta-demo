@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Dark theme — matches Compose dark palette -->
+    <style name="Theme.NFCAllinOne" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#7AF0C4</item>
+        <item name="colorPrimaryVariant">#0C8D68</item>
+        <item name="colorOnPrimary">#003328</item>
+        <item name="colorSecondary">#7AF0C4</item>
+        <item name="colorSecondaryVariant">#0C8D68</item>
+        <item name="colorOnSecondary">#003328</item>
+        <item name="android:statusBarColor">#0E1411</item>
+        <item name="android:navigationBarColor">#0E1411</item>
+        <item name="android:windowBackground">#0E1411</item>
+    </style>
+</resources>
